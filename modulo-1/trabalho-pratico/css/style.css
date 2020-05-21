@@ -1,0 +1,26 @@
+.content {
+      padding: 3rem;
+}
+.row {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+}
+.row:last-child {
+  margin-bottom: 0;
+}
+.row label {
+  min-width: 6rem;
+}
+.range {
+  margin: 0 2rem 0 1rem;
+}
+.result {
+  max-width: 3rem;
+}
+.area-color {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid #ddd;
+  margin: 0 auto 0 7rem;
+}
